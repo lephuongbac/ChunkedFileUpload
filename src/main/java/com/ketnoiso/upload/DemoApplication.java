@@ -17,6 +17,7 @@ public class DemoApplication {
      * @param args
      */
     public static void main(String[] args) {
+        System.out.println('test 123');
         SpringApplication.run(DemoApplication.class, args);
     }
 }
